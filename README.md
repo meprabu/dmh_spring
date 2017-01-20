@@ -1,1 +1,1 @@
-# dmh_spring
+# This is Spring mvc , project which can be deployed to websphere as an ear
